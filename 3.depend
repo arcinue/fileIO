@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1359385884 source:c:\users\temp.arcinue\desktop\3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1359679756 source:e:\array\3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1359504518 source:f:\array\3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
